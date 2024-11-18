@@ -1,0 +1,16 @@
+{
+  "canisters": {
+    "text_concatenator_backend": {
+      "main": "src/text_concatenator_backend/main.mo",
+      "type": "motoko"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
